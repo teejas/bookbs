@@ -10,7 +10,7 @@ Mobile app to scan books and automatically generate MARC records for upload to a
 2. [user] Scan barcode on book
 3. [app] ISBN is looked up in ISBN DB
 4. [app] MARC record JSON generated using results
-5. [user] Upload MARC record to LMS with button
+5. [user + app] Upload MARC record to LMS with button, optionally create item for existing record
 
 # Getting started
 
